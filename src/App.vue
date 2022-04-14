@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <h1 class="text-gray-400 uppercase tracking-widest text-lg font-bold">Contact</h1>
     <hr class="w-1/6 mb-5">
     <h1 class="text-gray-400 text-sm">20FTT1451@student.pb.edu.bn</h1>
-    <h1 class="text-gray-400 text-sm">+673 8971100</h1>
+    <h1 class="text-gray-400 text-sm">Bahit was here</h1>
     <h1 class="text-gray-400 text-sm">Negara Brunei Darussalam</h1>
     <h1 class="text-gray-400 text-sm">github.com/frhaqem</h1>
     <hr class="my-5">
